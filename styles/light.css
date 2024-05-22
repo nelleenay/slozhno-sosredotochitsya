@@ -6,6 +6,7 @@
   --main-text-color: #353430;
   --nav-menu-color: #353430;
   --border-color: #353430;
+  --outline-hover-color: rgba(50, 49, 45, 0.4);
   --title-color: #ffc2e6;
   --title-shadow-color: #ff0070;
   --title-bg-color: #ff8dcb;
@@ -24,6 +25,7 @@
     --main-text-color: #353430;
     --nav-menu-color: #353430;
     --border-color: #353430;
+    --outline-hover-color: rgba(50, 49, 45, 0.4);
     --title-color: #ffc2e6;
     --title-shadow-color: #ff0070;
     --title-bg-color: #ff8dcb;
